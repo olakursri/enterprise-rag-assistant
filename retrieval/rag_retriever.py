@@ -1,0 +1,7 @@
+from langchain.vectorstores import FAISS
+
+def create_vector_store(docs, embeddings):
+    return FAISS.from_documents(docs, embeddings)
+
+def get_retriever(vectorstore):
+    return vectorstore.as_retriever()
