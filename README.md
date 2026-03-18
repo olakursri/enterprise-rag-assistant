@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a Retrieval-Augmented Generation (RAG) system to enable enterprise document querying using LLMs.
+This project implements a Retrieval-Augmented Generation (RAG) system to enable enterprise document querying using LLMs. The skeleton of a smart assistant
 
 ## Architecture
 
