@@ -7,6 +7,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system to enable 
 ## Architecture
 
 User → UI → Backend API → Retriever → Vector DB → LLM → Response
+![Architecture](architecture/branched-rag.png)
 
 ## Tech Stack
 
